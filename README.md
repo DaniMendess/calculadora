@@ -1,2 +1,0 @@
-# calculadora
-#   Com  os conhecimentos
